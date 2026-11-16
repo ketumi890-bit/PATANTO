@@ -1,0 +1,14 @@
+pyTelegramBotAPI
+ntgcalls
+schedule
+requests
+telebot
+pyrogram==2.0.106
+tgcrypto
+py-tgcalls==3.0.0
+yt-dlp
+python-dotenv
+aiohttp
+aiofiles
+kurigram
+nest-asyncio
